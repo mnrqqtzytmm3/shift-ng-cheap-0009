@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mnrqqtzytmm3.github.io/shift-ng-cheap-0009/sitemap.xml
